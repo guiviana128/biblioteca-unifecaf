@@ -14,7 +14,7 @@ Abra `index.html` em um navegador. Não há instalação, dependências ou JavaS
 
 ## Escopo e limites
 
-Esta interface é uma demonstração de Design Web, não um catálogo institucional. Os seis livros são exemplos visuais; sua disponibilidade na UniFECAF não foi confirmada. Os três blocos de serviços remetem à página oficial da biblioteca. O site não coleta dados, não requer login e não reproduz sistemas internos da instituição.
+Esta interface é uma demonstração de Design Web, não um catálogo institucional. Os seis livros são exemplos visuais; sua disponibilidade na UniFECAF não foi confirmada. O botão de consulta leva ao [catálogo físico oficial](https://multiacervo.unifecaf.edu.br/fecafMultiAcervo/servlet/hmih001), sem presumir que algum dos exemplos esteja nele. Os três blocos de serviços remetem à página oficial da biblioteca. O site não coleta dados, não requer login e não reproduz sistemas internos da instituição.
 
 ## Decisões de implementação
 
@@ -25,7 +25,3 @@ HTML semântico, links de navegação por âncora, cartões de livros com `detai
 - [Biblioteca UniFECAF](https://www.unifecaf.com.br/biblioteca), usada para identificar os tipos de serviço apresentados.
 - Protótipo e instruções do documento `TRABALHO - Design Web (1) (1).docx`, fornecido pelo estudante. O documento original não está incluído no projeto.
 
-- 
-
-## Link do Projeto
-https://biblioteca-unifecaf-chi.vercel.app/
