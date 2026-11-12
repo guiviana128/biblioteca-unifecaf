@@ -2,6 +2,8 @@
 
 Projeto acadêmico da disciplina Design Web, criado a partir do protótipo de baixa fidelidade fornecido no enunciado. A página mantém a sequência: navegação, apresentação, destaques, livros, serviços e contatos.
 
+**Site publicado:** [guiviana128.github.io/biblioteca-unifecaf](https://guiviana128.github.io/biblioteca-unifecaf/)
+
 ## Como abrir
 
 Abra `index.html` em um navegador. Não há instalação, dependências ou JavaScript. Para publicar em GitHub Pages, use a raiz do repositório como origem.
